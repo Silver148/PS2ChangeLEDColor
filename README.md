@@ -1,4 +1,4 @@
-#PS2 Change Led Color
+# PS2 Change Led Color
 
 This program changes the color of the LED on the PS2 power button.
 
