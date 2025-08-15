@@ -7,3 +7,6 @@ This program changes the color of the LED on the PS2 power button.
 # WARNING⚠️!!!
 
 ## I am NOT responsible if this program causes damage to your console ⚠️. Use at your own risk!
+
+
+## I give many thanks to [el_isra](https://github.com/israpps) for telling me where to get the MechaCon SCMD commands, and so I was able to find the SCMD to change the LED color, THANKS ISRAAAAAAA!!!
