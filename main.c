@@ -2,7 +2,6 @@
 
 #include <stdio.h>
 #include <kernel.h>
-#include <debug.h>
 #include <tamtypes.h>
 #include <libcdvd.h>
 #include <sifrpc.h>

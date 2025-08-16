@@ -1,6 +1,6 @@
 EE_BIN = PS2ChangeLEDColor.elf
 EE_OBJS = main.o
-EE_LIBS = -lkernel -ldebug -lcdvd
+EE_LIBS = -lkernel -lcdvd
 EE_CFLAGS = -O3 -Wall
 
 all:$(EE_BIN)
